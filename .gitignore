@@ -1,7 +1,7 @@
 # files
 /Clicky game build/*
-/library/
-/logs/
+/library/*
+/logs/*
 /Whack a food build/*
 
 
